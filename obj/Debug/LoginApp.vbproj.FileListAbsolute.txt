@@ -1,0 +1,23 @@
+C:\Users\HP Notebook 15\Desktop\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\HP Notebook 15\Desktop\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\HP Notebook 15\Desktop\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\HP Notebook 15\Desktop\LoginApp\bin\Debug\LoginApp.xml
+C:\Users\HP Notebook 15\Desktop\LoginApp\obj\Debug\LoginApp.vbprojAssemblyReference.cache
+C:\Users\HP Notebook 15\Desktop\LoginApp\obj\Debug\LoginApp.Form1.resources
+C:\Users\HP Notebook 15\Desktop\LoginApp\obj\Debug\LoginApp.Resources.resources
+C:\Users\HP Notebook 15\Desktop\LoginApp\obj\Debug\LoginApp.vbproj.GenerateResource.cache
+C:\Users\HP Notebook 15\Desktop\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\HP Notebook 15\Desktop\LoginApp\obj\Debug\LoginApp.xml
+C:\Users\HP Notebook 15\Desktop\LoginApp\obj\Debug\LoginApp.pdb
+D:\Origin\RGIT\LoginApp\bin\Debug\LoginApp.exe.config
+D:\Origin\RGIT\LoginApp\bin\Debug\LoginApp.exe
+D:\Origin\RGIT\LoginApp\bin\Debug\LoginApp.pdb
+D:\Origin\RGIT\LoginApp\bin\Debug\LoginApp.xml
+D:\Origin\RGIT\LoginApp\obj\Debug\LoginApp.vbproj.AssemblyReference.cache
+D:\Origin\RGIT\LoginApp\obj\Debug\LoginApp.Form1.resources
+D:\Origin\RGIT\LoginApp\obj\Debug\LoginApp.Resources.resources
+D:\Origin\RGIT\LoginApp\obj\Debug\LoginApp.vbproj.GenerateResource.cache
+D:\Origin\RGIT\LoginApp\obj\Debug\LoginApp.vbproj.CoreCompileInputs.cache
+D:\Origin\RGIT\LoginApp\obj\Debug\LoginApp.exe
+D:\Origin\RGIT\LoginApp\obj\Debug\LoginApp.xml
+D:\Origin\RGIT\LoginApp\obj\Debug\LoginApp.pdb
